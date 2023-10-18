@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "1079250452395",
+    "project_id": "uniflix-2bb34",
+    "storage_bucket": "uniflix-2bb34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079250452395:android:d43fd0fa99a417e90cdcee",
+        "android_client_info": {
+          "package_name": "com.example.aula101023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSe9A1mXz-iC2FRhWHlfJX0GCrwVTAcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079250452395-kb7adq9rdeb8lnliej69osqhg3as5rrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniflixFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079250452395:android:023802789f3b4e880cdcee",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSe9A1mXz-iC2FRhWHlfJX0GCrwVTAcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079250452395-kb7adq9rdeb8lnliej69osqhg3as5rrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniflixFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079250452395:android:0bad3a9b6ca69d480cdcee",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSe9A1mXz-iC2FRhWHlfJX0GCrwVTAcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079250452395-kb7adq9rdeb8lnliej69osqhg3as5rrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniflixFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079250452395:android:d0e899dd2e24521c0cdcee",
+        "android_client_info": {
+          "package_name": "com.example.list_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSe9A1mXz-iC2FRhWHlfJX0GCrwVTAcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079250452395-kb7adq9rdeb8lnliej69osqhg3as5rrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniflixFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079250452395:android:626a422f14ef353b0cdcee",
+        "android_client_info": {
+          "package_name": "com.example.login_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSe9A1mXz-iC2FRhWHlfJX0GCrwVTAcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079250452395-kb7adq9rdeb8lnliej69osqhg3as5rrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniflixFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079250452395:android:9c930f891c20058b0cdcee",
+        "android_client_info": {
+          "package_name": "com.example.uniflix_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSe9A1mXz-iC2FRhWHlfJX0GCrwVTAcdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079250452395-bodgktf08qd14c1mivdqa0ubcmcocu4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079250452395-kb7adq9rdeb8lnliej69osqhg3as5rrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniflixFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
